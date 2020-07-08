@@ -1,4 +1,5 @@
 {
+	"projectTitle": "svd.im",
 	"showNavigation": ["header", "sidebar","footer"],
   "overruleNavigation": [
 		{
