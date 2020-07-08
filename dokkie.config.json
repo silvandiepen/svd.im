@@ -1,11 +1,16 @@
 {
 	"projectTitle": "svd.im",
-	"showNavigation": ["header", "sidebar","footer"],
-  	"overruleNavigation": [
+	"showNavigation": ["header", "sidebar", "footer"],
+	"extendNavigation": [
 		{
 			"name": "Blog",
 			"link": "https://blog.silvandiepen.nl",
-			"meta": { "menu": ["header","footer"] }
+			"meta": { "menu": ["header", "footer"] }
+		},
+		{
+			"name": "Website",
+			"link": "https://www.silvandiepen.nl",
+			"meta": { "menu": ["footer"] }
 		}
-   	]
+	]
 }
